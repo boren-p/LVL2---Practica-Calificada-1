@@ -6,32 +6,32 @@ function Users (){
     {
         name: "Bill Mahoney",
         job: "PRODUCT OWNER",
-        img: "./src/componentes/recursos/recursos/images/photo1.png"
+        img: "./public/recursos/recursos/images/photo1.png"
     },
     {
         name: "Saba Cabrera",
         job: "ART DIRECTOR",
-        img: "./src/componentes/recursos/recursos/images/photo2.png"
+        img: "./public/recursos/recursos/images/photo2.png"
     },
     {
         name: "Shae Le",
         job: "TEACH LEAD",
-        img: "./src/componentes/recursos/recursos/images/photo3.png"
+        img: "./public/recursos/recursos/images/photo3.png"
     },
     {
         name: "Skylah Lu",
         job: "UX DESIGNER",
-        img: "./src/componentes/recursos/recursos/images/photo4.png"
+        img: "./public/recursos/recursos/images/photo4.png"
     },
     {
         name: "Griff Richards",
         job: "DEVELOPER",
-        img: "./src/componentes/recursos/recursos/images/photo5.png"
+        img: "./public/recursos/recursos/images/photo5.png"
     },
     {
         name: "Stan John",
         job: "DEVEOPER",
-        img: "./src/componentes/recursos/recursos/images/photo6.png"
+        img: "./public/recursos/recursos/images/photo6.png"
     },
 ]
 
