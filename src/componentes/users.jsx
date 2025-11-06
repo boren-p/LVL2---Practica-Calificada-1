@@ -21,17 +21,17 @@ function Users (){
     {
         name: "Skylah Lu",
         job: "UX DESIGNER",
-        img: "./public/recursos/recursos/images/photo4.png"
+        img: "./recursos/recursos/images/photo4.png"
     },
     {
         name: "Griff Richards",
         job: "DEVELOPER",
-        img: "./public/recursos/recursos/images/photo5.png"
+        img: "./recursos/recursos/images/photo5.png"
     },
     {
         name: "Stan John",
         job: "DEVEOPER",
-        img: "./public/recursos/recursos/images/photo6.png"
+        img: "./recursos/recursos/images/photo6.png"
     },
 ]
 
