@@ -6,17 +6,17 @@ function Users (){
     {
         name: "Bill Mahoney",
         job: "PRODUCT OWNER",
-        img: "./public/recursos/recursos/images/photo1.png"
+        img: "./recursos/recursos/images/photo1.png"
     },
     {
         name: "Saba Cabrera",
         job: "ART DIRECTOR",
-        img: "./public/recursos/recursos/images/photo2.png"
+        img: "./recursos/recursos/images/photo2.png"
     },
     {
         name: "Shae Le",
         job: "TEACH LEAD",
-        img: "./public/recursos/recursos/images/photo3.png"
+        img: "./recursos/recursos/images/photo3.png"
     },
     {
         name: "Skylah Lu",
